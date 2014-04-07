@@ -12,7 +12,7 @@ for (int i = 0; i < docs.length; i++) {
 }
 ```
 Java to Lambda
-```
+```scala
 Range(0, docs.size).fold(m)({
     case (v34, i) => 
       val split = docs(i).splitString(" ");
