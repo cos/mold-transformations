@@ -1,4 +1,4 @@
-mold-transformations
+Mold
 ====================
 
 Example transformation traces:
